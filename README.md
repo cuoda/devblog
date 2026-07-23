@@ -7,17 +7,7 @@
 Microservices architecture · GraphQL BFF · gRPC · Polyglot persistence
 
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=googlecloud&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Nx_Monorepo-143055?style=flat-square&logo=nx&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /></a>
-<a href="#license"><img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" /></a>
+<a href="#"><img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=googlecloud&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/Nx_Monorepo-143055?style=flat-square&logo=nx&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /></a> <a href="#license"><img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" /></a>
 </p>
 
 [Overview](#overview) · [Architecture](#architecture) · [Design Decisions](#design-decisions--trade-offs) · [Data Model](#data-model) · [API Contracts](#api-contracts) · [Caching](#caching-strategy) · [Services](#services) · [Tech Stack](#tech-stack) · [Reliability](#reliability--scaling) · [Security](#security) · [Observability](#observability) · [Testing](#testing-strategy) · [Getting Started](#getting-started) · [Local Dev](#local-development) · [FAQ](#faq) · [Roadmap](#roadmap)
