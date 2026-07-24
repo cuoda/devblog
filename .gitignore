@@ -43,3 +43,11 @@ Thumbs.db
 .nx/migrate-runs
 .claude/worktrees
 .claude/settings.local.json
+
+# Next.js
+.next
+out
+.env
+.env.*
+!.env.example
+.pnpm-store
